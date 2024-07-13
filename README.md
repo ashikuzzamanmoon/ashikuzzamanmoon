@@ -92,10 +92,3 @@ I am a passionate full-stack developer specializing in the MERN stack, with expe
 </a>
 
 
-## :mailbox: Reach me out
-
-<br />
-
-[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/ashikuzzaman-moon)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/ashik.moon.14)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/moon14official)
-
-<br />

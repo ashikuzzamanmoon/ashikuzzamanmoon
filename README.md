@@ -90,3 +90,12 @@ I am a passionate full-stack developer specializing in the MERN stack, with expe
   <a href="https://github.com/ashikuzzamanmoon"><img alt=ashikuzzamanmoon Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ashikuzzamanmoon&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
+
+
+## :mailbox: Reach me out
+
+<br />
+
+[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/ashikuzzaman-moon)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/ashik.moon.14)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/moon14official)
+
+<br />

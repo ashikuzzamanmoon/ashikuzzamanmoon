@@ -9,7 +9,7 @@ I am a passionate full-stack developer specializing in the MERN stack, with expe
 - 👨‍💻 I’m working - In Carbon Codes.
 - 🤝 Open for Collaboration, Excited to collaborate on innovative projects.
 - 🌱 Currently learning many things Such as GraphQL, Software Testing, React Native etc.
-- 👨‍💻 All of my projects are available at [My Portfolio](https://64a2a8aef8f8e677ffff452b--melodious-cocada-ab8619.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://my-portfolio-three-kohl-82.vercel.app)
 
 - 🌱 I’m exploring **React Native**
 

@@ -6,10 +6,10 @@ I am a passionate full-stack developer specializing in the MERN stack, with expe
 
 ## :eyes: Current overview
 
-- 👨‍💻 I’m working - In Carbon Codes.
+- 👨‍💻 I’m working - In eBitans.
 - 🤝 Open for Collaboration, Excited to collaborate on innovative projects.
 - 🌱 Currently learning many things Such as GraphQL, Software Testing, React Native etc.
-- 👨‍💻 All of my projects are available at [My Portfolio](https://my-portfolio-three-kohl-82.vercel.app)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://www.ashikuzzamanmoon.com)
 
 - 🌱 I’m exploring **React Native**
 

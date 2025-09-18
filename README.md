@@ -63,13 +63,13 @@ I am a passionate full-stack developer specializing in the MERN stack, with expe
 <a href="ashikuzzamanmoon31@gmail.com">
     <img src="https://img.shields.io/badge/Email_me-323330?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
-<a href="https://my-portfolio-three-kohl-82.vercel.app">
+<a href="https://www.ashikuzzamanmoon.com">
    <img src="https://img.shields.io/badge/Portfolio-323330?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
 </a>
  <a href="https://www.linkedin.com/in/ashikuzzaman-moon">
        <img src="https://img.shields.io/badge/Linkedin-323330?style=for-the-badge&logo=linkedin&logoColor=white" />
  </a>
- <a href="https://www.facebook.com/ashik.moon.14">
+ <a href="https://www.facebook.com/ashikuzzaman.moon1">
        <img src="https://img.shields.io/badge/Facebook-323330?style=for-the-badge&logo=facebook&logoColor=white" />
  </a>
 

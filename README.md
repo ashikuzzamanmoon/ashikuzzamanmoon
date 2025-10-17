@@ -63,7 +63,7 @@ I am a passionate full-stack developer specializing in the MERN stack, with expe
 <a href="ashikuzzamanmoon31@gmail.com">
     <img src="https://img.shields.io/badge/Email_me-323330?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
-<a href="https://www.ashikuzzamanmoon.com">
+<a href="https://www.moon-bd.com">
    <img src="https://img.shields.io/badge/Portfolio-323330?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
 </a>
  <a href="https://www.linkedin.com/in/ashikuzzaman-moon">
@@ -79,11 +79,6 @@ I am a passionate full-stack developer specializing in the MERN stack, with expe
 ## :chart_with_upwards_trend: Current Stats
 
 <br />
-<p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com/?user=ashikuzzamanmoon&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
-</p>
-
-
 
 <a> 
     <a href="https://github.com/ashikuzzamanmoon"><img alt=ashikuzzamanmoon Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ashikuzzamanmoon&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>

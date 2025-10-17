@@ -9,7 +9,7 @@ I am a passionate full-stack developer specializing in the MERN stack, with expe
 - 👨‍💻 I’m working - In eBitans.
 - 🤝 Open for Collaboration, Excited to collaborate on innovative projects.
 - 🌱 Currently learning many things Such as GraphQL, Software Testing, React Native etc.
-- 👨‍💻 All of my projects are available at [My Portfolio](https://www.ashikuzzamanmoon.com)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://www.moon-bd.com)
 
 - 🌱 I’m exploring **React Native**
 
@@ -80,7 +80,7 @@ I am a passionate full-stack developer specializing in the MERN stack, with expe
 
 <br />
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=ashikuzzamanmoon&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+  <img width="60%" src="https://streak-stats.demolab.com/?user=ashikuzzamanmoon&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
 
 

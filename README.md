@@ -23,8 +23,8 @@ I am a passionate full-stack developer specializing in the MERN stack, with expe
 
 <p align="left">
 <a href="https://www.linkedin.com/in/ashikuzzaman-moon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashikuzzaman moon" height="30" width="40" /></a>
-<a href="https://facebook.com/ashik.moon.14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashikuzzaman moon" height="30" width="40" /></a>
-<a href="https://www.instagram.com/moon14.official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashikuzzaman moon" height="30" width="40" /></a>
+<a href="https://www.facebook.com/ashikuzzaman.moon1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashikuzzaman moon" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ashikuzzaman.moon1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashikuzzaman moon" height="30" width="40" /></a>
 </p>
 
 ## :computer: Technologies that I know

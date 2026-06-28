@@ -17,8 +17,6 @@ I am a passionate full-stack developer specializing in the MERN stack, with expe
 
 - 📫 How to reach me **ashikuzzamanmoon31@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1CHf31Y9-_QYccUeZag_MW2dSZjVnawSB/view?usp=sharing)
-
 - ⚡ Fun fact **I can learn anything very fast!**
 
 ## :mailbox: Reach me out

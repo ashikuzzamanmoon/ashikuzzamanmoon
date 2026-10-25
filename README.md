@@ -6,7 +6,7 @@ I am a passionate full-stack developer specializing in the MERN stack, with expe
 
 ## :eyes: Current overview
 
-- 👨‍💻 I’m working - In eBitans.
+- 👨‍💻 Available for freelance projects.
 - 🤝 Open for Collaboration, Excited to collaborate on innovative projects.
 - 🌱 Currently learning many things Such as GraphQL, Software Testing, React Native etc.
 - 👨‍💻 All of my projects are available at [My Portfolio](https://www.moon-bd.com)

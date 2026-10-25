@@ -1,23 +1,20 @@
 ![Moon Image](https://i.ibb.co/L8B2mz3/Black-Gradient-Minimalistic-github-Banner.png)
 
 ## :pen: About Me 
-I am a passionate full-stack developer specializing in the MERN stack, with expertise in both SQL and NoSQL databases. I excel in building scalable, responsive web applications and solving complex coding challenges. Continuously learning and adapting, I thrive on staying at the forefront of modern web technologies to deliver innovative solutions and enhance user experiences.
+I'm Ashikuzzaman Moon, a Full-Stack Web Developer from Sirajganj, Bangladesh, working remotely with clients in Bangladesh and abroad.
+>
+I specialize in Next.js, React, TypeScript and Node.js. At eBitans Limited I built and fixed production eCommerce platforms — 100+ critical bugs resolved, ~20% faster load times. I build complete products, not just pages: UI, API, database, auth and deployment.
 
 
 ## :eyes: Current overview
 
-- 👨‍💻 Available for freelance projects.
-- 🤝 Open for Collaboration, Excited to collaborate on innovative projects.
-- 🌱 Currently learning many things Such as GraphQL, Software Testing, React Native etc.
+- 💼 Available for freelance projects — eCommerce, web apps, APIs and ongoing maintenance
+- 🌍 Working remotely with Bangladeshi and international clients
+- 💬 Ask me about React, Next.js, Node.js, TypeScript
 - 👨‍💻 All of my projects are available at [My Portfolio](https://www.moon-bd.com)
-
-- 🌱 I’m exploring **React Native**
-
-- 💬 Ask me about **React,Javascript,Nodejs,NextJs**
 
 - 📫 How to reach me **ashikuzzamanmoon31@gmail.com**
 
-- ⚡ Fun fact **I can learn anything very fast!**
 
 ## :mailbox: Reach me out
 
